@@ -1,4 +1,4 @@
-## README
+## Instrucciones sobre como usar la aplicacion Youtube Pirata
 
 Para usar la aplicación de forma correcta, se tienen que seguir los siguientes pasos:
 
