@@ -1,0 +1,40 @@
+body{
+    background: rgb(30, 30, 34);
+    color:white
+}
+.logoCanal>img{
+    width: 100px;
+    border-radius: 50px;
+}
+.videosRelacionados>img{
+    width: 400px;
+    border-radius: 30px;
+    border:3px blanchedalmond;
+}
+
+.comentarios{
+    margin: 30px;
+    overflow: auto;
+    flex-direction: column;
+    display: flex;
+    height: 650px;
+}
+
+.infoCanal{
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.nombreCanal{
+    margin-top: 35px;
+}
+.accordion-item{
+    background-color:  rgb(30, 30, 34);
+}
+.accordion{
+    margin-top: 20px;
+}
+#searchBar{
+    background-color:rgb(40, 40, 46);
+    color: white;
+}
