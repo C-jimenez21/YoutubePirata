@@ -12,7 +12,7 @@ const generateUrl = () => {
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '2b845d4d08msha779bb254daf24ap18ee37jsn870fdfc4a2d9', //2b845d4d08msha779bb254daf24ap18ee37jsn870fdfc4a2d9
+		'X-RapidAPI-Key': '5fd2a556e4msh3adb97619330ebep1260d1jsnb7b5cc19f4e1', //2b845d4d08msha779bb254daf24ap18ee37jsn870fdfc4a2d9
 		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
 	}
 };
